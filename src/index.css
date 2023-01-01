@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    height: 100%
+}
+
+@font-face {
+    font-family: "NanumBarunGothic";
+    font-weight: 200;
+    src: url("../fonts/NanumBarunGothicUltraLight.woff2") format("woff2"),
+        url("../fonts/NanumBarunGothicUltraLight.woff") format("woff"),
+        url("../fonts/NanumBarunGothicUltraLight.otf") format("opentype"),
+}
+
+@font-face {
+    font-family: "NanumBarunGothic";
+    font-weight: 300;
+    src: url("../fonts/NanumBarunGothicLight.woff2") format("woff2"),
+        url("../fonts/NanumBarunGothicLight.woff") format("woff"),
+        url("../fonts/NanumBarunGothicLight.otf") format("opentype"),
+}
+
+@font-face {
+    font-family: "NanumBarunGothic";
+    font-style: normal;
+    font-weight: 400;
+    src: url("../fonts/NanumBarunGothic.woff2") format("woff2"),
+        url("../fonts/NanumBarunGothic.woff") format("woff"),
+        url("../fonts/NanumBarunGothic.otf") format("opentype"),
+}
+
+@font-face {
+    font-family: "NanumBarunGothic";
+    font-weight: 500;
+    src: url("../fonts/NanumBarunGothicBold.woff2") format("woff2"),
+        url("../fonts/NanumBarunGothicBold.woff") format("woff"),
+        url("../fonts/NanumBarunGothicBold.otf") format("opentype"),
+}
+
+#root {
+    height: calc(var(--vh, 1vh) * 100);
+}
+
+#root > div {
+   height: 100%;
+}
