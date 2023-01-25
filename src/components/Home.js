@@ -50,7 +50,6 @@ function Home() {
                     <option key={user.id} value={user.id}>{user.name}</option>
                 ))}
             </select>
-            <img src='https://www.dropbox.com/s/nq7f1yy8i9zlmj5/00620_HD.jpg?raw=1' alt=''/>
         </div>
     )
 }
