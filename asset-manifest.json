@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bucket-list-bingo-gssh/static/css/main.22b344de.css",
+    "main.js": "/bucket-list-bingo-gssh/static/js/main.7a0b6d0d.js",
+    "static/js/27.96185891.chunk.js": "/bucket-list-bingo-gssh/static/js/27.96185891.chunk.js",
+    "static/media/background.png": "/bucket-list-bingo-gssh/static/media/background.b3760192420fd069526c.png",
+    "static/media/NanumBarunGothicBold.otf": "/bucket-list-bingo-gssh/static/media/NanumBarunGothicBold.2bec89fba976d2afc95c.otf",
+    "static/media/NanumBarunGothicUltraLight.otf": "/bucket-list-bingo-gssh/static/media/NanumBarunGothicUltraLight.faa060a4d5af7192ea33.otf",
+    "static/media/NanumBarunGothicLight.otf": "/bucket-list-bingo-gssh/static/media/NanumBarunGothicLight.89ab8531ab442946a1ca.otf",
+    "static/media/NanumBarunGothic.otf": "/bucket-list-bingo-gssh/static/media/NanumBarunGothic.67f54152d002732d2057.otf",
+    "static/media/NanumBarunGothicBold.woff": "/bucket-list-bingo-gssh/static/media/NanumBarunGothicBold.5a2eca9fbd47fcda6ade.woff",
+    "static/media/NanumBarunGothicUltraLight.woff": "/bucket-list-bingo-gssh/static/media/NanumBarunGothicUltraLight.256d360f248f05288e53.woff",
+    "static/media/NanumBarunGothicLight.woff": "/bucket-list-bingo-gssh/static/media/NanumBarunGothicLight.ad709d66bc8d331e6ba9.woff",
+    "static/media/NanumBarunGothic.woff": "/bucket-list-bingo-gssh/static/media/NanumBarunGothic.be8a8df2fb2f66a7c91c.woff",
+    "static/media/NanumBarunGothicBold.woff2": "/bucket-list-bingo-gssh/static/media/NanumBarunGothicBold.9b8f3d17315fda6c600f.woff2",
+    "static/media/NanumBarunGothicUltraLight.woff2": "/bucket-list-bingo-gssh/static/media/NanumBarunGothicUltraLight.0c6be051255295577539.woff2",
+    "static/media/NanumBarunGothicLight.woff2": "/bucket-list-bingo-gssh/static/media/NanumBarunGothicLight.67f8c16179c0ee1d739f.woff2",
+    "static/media/NanumBarunGothic.woff2": "/bucket-list-bingo-gssh/static/media/NanumBarunGothic.b84c06c23d4a57a9c352.woff2",
+    "index.html": "/bucket-list-bingo-gssh/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.22b344de.css",
+    "static/js/main.7a0b6d0d.js"
+  ]
+}
